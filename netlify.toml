@@ -1,0 +1,9 @@
+[build]
+  base = "agency-project"
+  command = "npm run build"
+  publish = "agency-project/dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
