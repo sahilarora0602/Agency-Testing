@@ -14,9 +14,8 @@
   "motion": "^12.23.13", 
   "lucide-react": "^0.408.0",
   "react-hook-form": "^7.50.0",
-  "react-responsive-masonry": "^4.1.8"
-  },
-  "devDependencies": {    "@types/react": "^18.2.0",
+"react-responsive-masonry": "^4.2.0"  ,
+   "devDependencies": {    "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "@vitejs/plugin-react": "^4.0.0",
     "typescript": "^5.0.0",
